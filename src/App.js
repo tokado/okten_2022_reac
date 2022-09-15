@@ -1,13 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-import SimpsonFamily from "./simpsonFamily/SimpsonFamily";
-import RickAndMorty from "./rickAndMorty/RickAndMorty";
+import Users from "./users/Users";
 
 function App() {
   return (
     <div>
-        {/* <SimpsonFamily/> */}
-      <RickAndMorty/>
+        <Users/>
     </div>
   );
 }
