@@ -1,9 +1,9 @@
-import Users from "./users/Users";
+import Space from "./space/Space";
 
 function App() {
   return (
     <div>
-        <Users/>
+      <Space/>
     </div>
   );
 }
