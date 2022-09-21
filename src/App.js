@@ -1,9 +1,10 @@
-import Space from "./space/Space";
+import Cars from "./components/Cars/Cars";
+
 
 function App() {
   return (
     <div>
-      <Space/>
+      <Cars/>
     </div>
   );
 }
