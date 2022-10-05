@@ -1,10 +1,10 @@
-import Cars from "./components/Cars/Cars";
+import MainReducer from "./Component/MainReducer/MainReducer";
 
 
 function App() {
   return (
     <div>
-      <Cars/>
+      <MainReducer/>
     </div>
   );
 }
