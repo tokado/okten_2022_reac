@@ -1,10 +1,10 @@
-import MainReducer from "./Component/MainReducer/MainReducer";
+import Users from "./components/users/Users";
 
 
 function App() {
   return (
     <div>
-      <MainReducer/>
+        <Users/>
     </div>
   );
 }
